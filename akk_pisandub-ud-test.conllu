@@ -2067,7 +2067,7 @@
 28	lìb-bi	libbu	NOUN	_	_	27	nmod	_	_
 29	še-bé-e	šebû	VERB	_	_	30	nmod	_	_
 30	lit-tu-tu	littūtu	NOUN	_	_	26	conj	_	_
-31	lu	lū	AUX	_	_	32	aux	_	_
+31	lu	lū	PART	_	_	32	advmod	_	_
 32	ši-ri-ik-ti	šeriktu	NOUN	_	_	0	root	_	_
 33	LUGAL-ú-ti	šarrūtu	NOUN	_	_	32	iobj	_	_
 34	šá	ša	DET	_	_	35	det	_	_
