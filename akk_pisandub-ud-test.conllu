@@ -948,7 +948,7 @@
 17	ra-pa]-áš	rapšu	ADJ	_	_	18	amod	_	_
 18	uz-nam	uznu	NOUN	_	_	16	dep	_	_
 19	xxx[xx	_	X	_	_	20	dep	_	_
-20	ḫa-a-a-iṭ	hāʾiṭu	NOUN	_	_	18	orphan	_	_
+20	ḫa-a-a-iṭ	hāʾiṭu	NOUN	_	_	18	depkul-lat -si-in a-na ta-zi-im-ti -ši-na D-EN-LÍL DINGIR-MEŠ ez-zi-iš i-gu-ug -⸢ma⸣ [xx] ki-su-úr -šu-un	_	_
 21	ki]-ib-ra-a-tim	kibru	NOUN	_	_	20	nmod	_	_
 22	[xx	_	X	_	_	23	dep	_	_
 23	ṣi-it]	ṣītu	NOUN	_	_	28	nsubj	_	_
@@ -1045,7 +1045,7 @@
 # sent_id = babylon8_Cyrus_II_01_3a
 # text = kul-lat -si-in a-na ta-zi-im-ti -ši-na D-EN-LÍL DINGIR-MEŠ ez-zi-iš i-gu-ug -⸢ma⸣ [xx] ki-su-úr -šu-un
 # text_en =  The Enlil of the gods became furiously angry at their complaints an[d ...] their territory.
-1	kul-lat	kullatu	NOUN	_	_	9	parataxis	_	_
+1	kul-lat	kullatu	NOUN	_	_	9	advcl	_	_
 2	-si-in	-šina	PRON	_	_	1	det	_	_
 3	a-na	ana	ADP	_	_	4	case	_	_
 4	ta-zi-im-ti	tazzimtu	NOUN	_	_	1	nmod	_	_
@@ -1056,7 +1056,7 @@
 9	i-gu-ug	agāgu	VERB	_	_	0	root	_	_
 10	-⸢ma⸣	-ma	CCONJ	_	_	11	cc	_	_
 11	[xx]	_	X	_	_	9	dep	_	_
-12	ki-su-úr	kisurrû	NOUN	_	_	11	orphan	_	_
+12	ki-su-úr	kisurrû	NOUN	_	_	11	dep	_	_
 13	-šu-un	-šunu	PRON	_	_	12	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_3b
@@ -1707,7 +1707,7 @@
 6	10	_	NUM	_	_	7	nummod	_	_
 7	TU-GUR₄-MUŠEN-MEŠ	sukannīnu	NOUN	_	_	4	conj	_	_
 8	e-li	eli	ADP	_	_	9	case	_	_
-9	KUR-GI-MUŠEN	kurkû	NOUN	_	_	13	orphan	_	_
+9	KUR-GI-MUŠEN	kurkû	NOUN	_	_	13	dep	_	_
 10	UZ-TUR-MUŠEN-MEŠ	paspasu	NOUN	_	_	9	conj	_	_
 11	ù	u	CCONJ	_	_	12	cc	_	_
 12	TU-GUR₄-MUŠEN-MEŠ	sukannīnu	NOUN	_	_	10	conj	_	_
@@ -1824,7 +1824,7 @@
 13	ap-pa]-⸢al⸣-sa	palāsu	VERB	_	_	0	root	_	_
 14	[xx	_	X	_	_	13	dep	_	_
 15	a-na	ana	ADP	_	_	16	case	_	_
-16	áš]-⸢ri	ašru	NOUN	_	_	14	orphan	_	_
+16	áš]-⸢ri	ašru	NOUN	_	_	14	dep	_	_
 17	-šú⸣	-šu	PRON	_	_	16	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_16
@@ -1850,7 +1850,7 @@
 18	a-na-ku	anāku	PRON	_	_	16	conj	_	_
 19	-ma	-ma	CCONJ	_	_	20	dep	_	_
 20	xx]	_	X	_	_	18	dep	_	_
-21	⸢lìb⸣-bi	libbu	NOUN	_	_	20	orphan	_	_
+21	⸢lìb⸣-bi	libbu	NOUN	_	_	20	dep	_	_
 22	-ka	-ka	PRON	_	_	21	det	_	_
 23	a-na	ana	ADP	_	_	24	case	_	_
 24	da-rí-a-tim	dārītu	NOUN	_	_	21	nmod	_	_
@@ -1859,7 +1859,7 @@
 # text = [ki KA xx šá-ṭir] ⸢ba⸣-ar
 # text_en =  [Written and co]llated [from a ...].
 1	[ki	kī	ADP	_	_	2	case	_	_
-2	KA	pû	NOUN	_	_	3	orphan	_	_
+2	KA	pû	NOUN	_	_	3	dep	_	_
 3	xx	_	X	_	_	0	root	_	_
 4	šá-ṭir]	šaṭru	ADJ	_	_	2	amod	_	_
 5	⸢ba⸣-ar	barû	ADJ	_	_	4	conj	_	_
