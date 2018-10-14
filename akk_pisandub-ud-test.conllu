@@ -751,8 +751,8 @@
 6	tu-pa-áš-šá-ḫu	pašāhu	VERB	_	_	4	conj	_	_
 7	an-ḫu-us	anhūtu	NOUN	_	_	6	obj	_	_
 8	-sú	-šu	PRON	_	_	7	det	_	_
-9	ki-i	kī	ADP	_	_	10	fixed	_	_
-10	šá	ša	SCONJ	_	_	16	mark	_	_
+9	ki-i	kī	ADP	_	_	16	mark	_	_
+10	šá	ša	SCONJ	_	_	9	fixed	_	_
 11	mu-šar-re-e	mušarû	NOUN	_	_	16	obj	_	_
 12	LUGAL	šarru	NOUN	_	_	11	nmod	_	_
 13	a-lik	āliku	NOUN	_	_	12	nmod	_	_
@@ -805,7 +805,7 @@
 7	KÁ-DIŠ-DIŠ-KI	Babili	PROPN	_	_	6	nmod	_	_
 8	KAR	kāru	NOUN	_	_	14	obl	_	_
 9	a-gur-ru	agurru	NOUN	_	_	8	nmod	_	_
-10	ana	ana	ADP	_	_	11	fixed	_	_
+10	ana	ana	ADP	_	_	11	case	_	_
 11	ki-da-nu	kīdānu	ADV	_	_	14	advmod	_	_
 12	BÀD	dūru	NOUN	_	_	14	obj	_	_
 13	ba-li-i-lu	Babili	PROPN	_	_	12	nmod	_	_
@@ -836,7 +836,7 @@
 12	d-AMAR-UTU	Marduk	PROPN	_	_	10	conj	_	_
 13	KAR	kāru	NOUN	_	_	19	obl	_	_
 14	a-gur-ri	agurru	NOUN	_	_	13	nmod	_	_
-15	a-na	ana	ADP	_	_	16	fixed	_	_
+15	a-na	ana	ADP	_	_	16	case	_	_
 16	ki-da-nu	kīdānu	ADV	_	_	19	advmod	_	_
 17	BÀD	dūru	NOUN	_	_	19	obj	_	_
 18	KÁ-DINGIR-RA-KI	Babili	PROPN	_	_	17	nmod	_	_
@@ -948,7 +948,7 @@
 17	ra-pa]-áš	rapšu	ADJ	_	_	18	amod	_	_
 18	uz-nam	uznu	NOUN	_	_	16	dep	_	_
 19	xxx[xx	_	X	_	_	20	dep	_	_
-20	ḫa-a-a-iṭ	hāʾiṭu	NOUN	_	_	18	depkul-lat -si-in a-na ta-zi-im-ti -ši-na D-EN-LÍL DINGIR-MEŠ ez-zi-iš i-gu-ug -⸢ma⸣ [xx] ki-su-úr -šu-un	_	_
+20	ḫa-a-a-iṭ	hāʾiṭu	NOUN	_	_	18	dep	_	_
 21	ki]-ib-ra-a-tim	kibru	NOUN	_	_	20	nmod	_	_
 22	[xx	_	X	_	_	23	dep	_	_
 23	ṣi-it]	ṣītu	NOUN	_	_	28	nsubj	_	_
