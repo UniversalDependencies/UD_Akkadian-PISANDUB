@@ -52,7 +52,7 @@
 3	[xxx]	_	X	_	_	2	dep	_	_
 
 # sent_id = babylon7_amel-marduk_5_02
-# text = É-GAL LÚ-dAMAR-UTU ⸢LUGAL⸣ [TIN .TIR .KI] DUMU d-MUATI-NÍG-DU-ÙRU LUGAL [TIN-TIR-KI]
+# text = É-GAL LÚ-dAMAR-UTU ⸢LUGAL⸣ [TIN-TIR-KI] DUMU d-MUATI-NÍG-DU-ÙRU LUGAL [TIN-TIR-KI]
 1	É-GAL	ēkallu	NOUN	_	_	0	root	_	_
 2	LÚ-d-AMAR-UTU	Amel-Marduk	PROPN	_	_	1	nmod	_	_
 3	⸢LUGAL⸣	šarru	NOUN	_	_	2	appos	_	_
@@ -812,7 +812,7 @@
 14	ú-šá-as-ḫir	sahāru	VERB	_	_	0	root	_	_
 
 # sent_id = babylon7_nabopolassar_07_02
-# text = KAR a-na d-AMAR .UTU MUNUS-SIG₅ -šú qí-ba
+# text = KAR a-na d-AMAR UTU MUNUS-SIG₅ -šú qí-ba
 1	KAR	kāru	NOUN	_	_	6	vocative	_	_
 2	a-na	ana	ADP	_	_	3	case	_	_
 3	d-AMAR-UTU	Marduk	PROPN	_	_	6	obl	_	_
@@ -1150,7 +1150,7 @@
 7	-šu	-šu	PRON	_	_	6	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_4c
-# text = UN.MEŠ ṣal-mat SAG.DU ša ú-ša-ak-ši-du qa-ta-a-šú i-na ki-it-tim ù mi-šá-ru iš-te-né-eʾ-e-ši-na-a-tim
+# text = UN-MEŠ ṣal-mat SAG-DU ša ú-ša-ak-ši-du qa-ta-a-šú i-na ki-it-tim ù mi-šá-ru iš-te-né-eʾ-e-ši-na-a-tim
 # text_en =  (As for) the black-headed people whom he allowed his hand to conquer, he was assiduous towards their welfare in truth and justice.
 1	UN-MEŠ	nišu	NOUN	_	_	12	obj	_	_
 2	ṣal-mat	ṣalmu	ADJ	_	_	3	amod	_	_
@@ -1697,7 +1697,7 @@
 11	ú-še-ši-ib	wašābu	VERB	_	_	4	parataxis	_	_
 
 # sent_id = babylon8_Cyrus_II_01_12
-# text = [xx KUR] GI-MUŠEN 2 UZ-TUR MUŠEN ù 10 TU-GUR₄ MUŠEN-MEŠ e-li KUR GI MUŠEN UZ-TUR MUŠEN .MEŠ ù TU-GUR₄ MUŠEN-MEŠ [xx u₄]-⸢mi⸣-šam ú-ṭa-aḫ-ḫi-id
+# text = [xx KUR]-GI-MUŠEN 2 UZ-TUR-MUŠEN ù 10 TU-GUR₄-MUŠEN-MEŠ e-li KUR-GI-MUŠEN UZ-TUR-MUŠEN-MEŠ ù TU-GUR₄-MUŠEN-MEŠ [xx u₄]-⸢mi⸣-šam ú-ṭa-aḫ-ḫi-id
 # text_en =   Daily, I lavishly provided [... ge]ese, two ducks, and ten pigeons, more than the geese, ducks, and pigeons [...].
 1	[xx	_	X	_	_	2	dep	_	_
 2	KUR]-GI-MUŠEN	kurkû	NOUN	_	_	15	obj	_	_
