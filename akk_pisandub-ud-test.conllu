@@ -52,7 +52,7 @@
 3	[xxx]	_	X	_	_	2	dep	_	_
 
 # sent_id = babylon7_amel-marduk_5_02
-# text = É-GAL LÚ-dAMAR-UTU ⸢LUGAL⸣ [TIN-TIR-KI] DUMU d-MUATI-NÍG-DU-ÙRU LUGAL [TIN-TIR-KI]
+# text = É-GAL LÚ-d-AMAR-UTU ⸢LUGAL⸣ [TIN-TIR-KI] DUMU d-MUATI-NÍG-DU-ÙRU LUGAL [TIN-TIR-KI]
 1	É-GAL	ēkallu	NOUN	_	_	0	root	_	_
 2	LÚ-d-AMAR-UTU	Amel-Marduk	PROPN	_	_	1	nmod	_	_
 3	⸢LUGAL⸣	šarru	NOUN	_	_	2	appos	_	_
@@ -69,7 +69,7 @@
 3	NINDA	akalu	NOUN	_	_	0	root	_	_
 
 # sent_id = babylon7_amel-marduk_6_02
-# text = É-GAL LÚ-dAMAR-UTU LUGAL TIN-TIR-KI DUMU d-MUATI-⸢NÍG-DU-ÙRU⸣ LUGAL TIN-TIR-KI
+# text = É-GAL LÚ-d-AMAR-UTU LUGAL TIN-TIR-KI DUMU d-MUATI-⸢NÍG-DU-ÙRU⸣ LUGAL TIN-TIR-KI
 1	É-GAL	ēkallu	NOUN	_	_	0	root	_	_
 2	LÚ-d-AMAR-UTU	Amel-Marduk	PROPN	_	_	1	nmod	_	_
 3	LUGAL	šarru	NOUN	_	_	2	appos	_	_
