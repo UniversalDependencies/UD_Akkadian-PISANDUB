@@ -927,7 +927,7 @@
 9	ú-te-er	târu	VERB	_	_	4	conj	_	_
 
 # sent_id = babylon8_Cyrus_II_01_1a
-# text = [i-nu d-AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi-šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti-šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru-šu-un ta-am-ši-li é-sag-íl i-te-[pu-uš-ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
+# text = [i-nu d-AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi -šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti-šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru-šu-un ta-am-ši-li é-sag-íl i-te-[pu-uš-ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
 # text_en =  [When the god Mard]uk, the king of all of heaven and earth, [... who] lays to waste his [...] ... [through] his ..., [... bro]ad in intelligence, ... [..., the one who inspects the (four) qu]arters (of the world), [...], his eldest [off]spring (Belshazzar), a lowly person, was installed as the ruler of his land, [...] he caused [..., a re]plica, to be set up over them. He bu[ilt] a replica of Esagil [and ...] for (the city) Ur and the rest of the cult-center(s).
 1	[i-nu	inu	SCONJ	_	_	28	mark	_	_
 2	d-AMAR]-⸢UTU⸣	Marduk	PROPN	_	_	13	csubj	_	_
@@ -982,7 +982,7 @@
 10	ma-ḫa-za	māhāzu	NOUN	_	_	9	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_01_2a
-# text = pa-ra-aṣ la si-ma-ti -šu-nu ta-[ak-li-im la me-si xx la] pa-liḫ ú-mi-ša-am -ma id-de-né-eb-bu-ub ù ⸢a-na ma-ag⸣-ri-tim sat-tuk-ku ú-šab-ṭi-li ú-⸢la⸣-[ap-pi-it pél-lu-de-e xx iš]-tak-ka-an qé-reb ma-ḫa-zi
+# text = pa-ra-aṣ la si-ma-ti -šu-nu ta-[ak-li-im la me-si xx la] pa-liḫ ú-mi-ša-am-ma id-de-né-eb-bu-ub ù ⸢a-na ma-ag⸣-ri-tim sat-tuk-ku ú-šab-ṭi-li ú-⸢la⸣-[ap-pi-it pél-lu-de-e xx iš]-tak-ka-an qé-reb ma-ḫa-zi
 # text_en =  Daily, he devised cultic rites that were not befitting them, [impure] food of[ferings, ..., dis]respectful [...] and, as a spiteful act, he brought sattukku-offering to a halt, int[erfered with pelludû-rites (and) est]ablished [...] inside cult-centers.
 1	pa-ra-aṣ	parṣu	NOUN	_	_	12	obj	_	_
 2	la	lā	PART	_	_	3	advmod	_	_
