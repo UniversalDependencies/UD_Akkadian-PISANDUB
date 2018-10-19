@@ -968,7 +968,7 @@
 37	-šu-un	-šunu	PRON	_	_	36	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_1b
-# text = ta-am-ši-li é-sag-íl i-te-[pu-uš-ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
+# text = ta-am-ši-li é-sag-íl i-te-[pu-uš -ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
 # text_en =  He bu[ilt] a replica of Esagil [and ...] for (the city) Ur and the rest of the cult-center(s).
 1	ta-am-ši-li	tamšīlu	NOUN	_	_	3	obj	_	_
 2	é-sag-íl	Esagil	PROPN	_	_	1	nmod	_	_
