@@ -927,7 +927,7 @@
 9	ú-te-er	târu	VERB	_	_	4	conj	_	_
 
 # sent_id = babylon8_Cyrus_II_01_1a
-# text = [i-nu d-AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi -šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti -šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru -šu-un ta-am-ši-li é-sag-íl i-te-[pu-uš-ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
+# text = [i-nu d-AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi -šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti -šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru -šu-un
 # text_en =  [When the god Mard]uk, the king of all of heaven and earth, [... who] lays to waste his [...] ... [through] his ..., [... bro]ad in intelligence, ... [..., the one who inspects the (four) qu]arters (of the world), [...], his eldest [off]spring (Belshazzar), a lowly person, was installed as the ruler of his land, [...] he caused [..., a re]plica, to be set up over them. He bu[ilt] a replica of Esagil [and ...] for (the city) Ur and the rest of the cult-center(s).
 1	[i-nu	inu	SCONJ	_	_	28	mark	_	_
 2	d-AMAR]-⸢UTU⸣	Marduk	PROPN	_	_	13	csubj	_	_
@@ -1060,7 +1060,7 @@
 13	-šu-un	-šunu	PRON	_	_	12	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_3b
-# text = DINGIR-MEŠ a-ši-ib lìb-bi-šu-nu i-zi-bu at-⸢ma⸣-an -šu-un i-na ug-ga-ti-ša ú-še-ri-bi a-na qé-reb šu-an-na KI
+# text = DINGIR-MEŠ a-ši-ib lìb-bi -šu-nu i-zi-bu at-⸢ma⸣-an -šu-un i-na ug-ga-ti ša ú-še-ri-bi a-na qé-reb šu-an-na-KI
 # text_en =  The gods living inside them abandoned their shrines, angry that he had made (them) enter Šuanna (Babylon).
 1	DINGIR-MEŠ	ilu	NOUN	_	_	5	nsubj	_	_
 2	a-ši-ib	wāšibu	NOUN	_	_	1	nmod	_	_
@@ -1600,7 +1600,7 @@
 44	-šú-un	-šunu	PRON	_	_	43	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_11a
-# text = ù DINGIR-MEŠ KUR šu-me-ri ù URI KI ša m-d-AG-NÍ-TUKU a-na ug-ga-tim EN DINGIR-MEŠ ú-še-ri-bi a-na qé-reb šu-an-na KI i-na qí-bi-ti d-AMAR-UTU EN GAL i-na ša-li-im-tim i-na maš-ta-ki -šu-nu ú-še-ši-ib šu-ba-at ṭu-ub lìb-bi
+# text = ù DINGIR-MEŠ KUR šu-me-ri ù URI KI ša m-d-AG-NÍ-TUKU a-na ug-ga-tim EN DINGIR-MEŠ ú-še-ri-bi a-na qé-reb šu-an-na-KI i-na qí-bi-ti d-AMAR-UTU EN GAL i-na ša-li-im-tim i-na maš-ta-ki -šu-nu ú-še-ši-ib šu-ba-at ṭu-ub lìb-bi
 # text_en =  Moreover, (as for) the deities of the land of Sumer and Akkad who Nabonidus, incurring the wrath of the lord of the gods (Marduk), had brought into Šuanna (Babylon), at the command of the god Marduk, the great lord, I allowed (them) to live in peace in their abodes, (in) the dwelling(s) of (their) heart’s content.
 1	ù	u	CCONJ	_	_	2	cc	_	_
 2	DINGIR-MEŠ	ilu	NOUN	_	_	26	iobj	_	_
