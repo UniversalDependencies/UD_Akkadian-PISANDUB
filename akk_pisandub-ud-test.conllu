@@ -551,7 +551,7 @@
 32	ad-di	nadû	VERB	_	_	24	conj	_	_
 
 # sent_id = babylon7_nabopolassar_03_11
-# text = i-na i-ra-at ki-gal-la i-šid-su lu-ú ú-šar-ši-id
+# text = i-na i-ra-at ki-gal-la i-šid -su lu-ú ú-šar-ši-id
 1	i-na	ina	ADP	_	_	2	case	_	_
 2	i-ra-at	irtu	NOUN	_	_	7	obl	_	_
 3	ki-gal-la	kigallu	NOUN	_	_	2	nmod	_	_
@@ -812,7 +812,7 @@
 14	ú-šá-as-ḫir	sahāru	VERB	_	_	0	root	_	_
 
 # sent_id = babylon7_nabopolassar_07_02
-# text = KAR a-na d-AMAR UTU MUNUS-SIG₅ -šú qí-ba
+# text = KAR a-na d-AMAR-UTU MUNUS-SIG₅ -šú qí-ba
 1	KAR	kāru	NOUN	_	_	6	vocative	_	_
 2	a-na	ana	ADP	_	_	3	case	_	_
 3	d-AMAR-UTU	Marduk	PROPN	_	_	6	obl	_	_
@@ -927,7 +927,7 @@
 9	ú-te-er	târu	VERB	_	_	4	conj	_	_
 
 # sent_id = babylon8_Cyrus_II_01_1a
-# text = i-nu d AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi-šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti-šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru-šu-un ta-am-ši-li é-sag-íl i-te-[pu-uš-ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
+# text = [i-nu d-AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi-šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti-šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru-šu-un ta-am-ši-li é-sag-íl i-te-[pu-uš-ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
 # text_en =  [When the god Mard]uk, the king of all of heaven and earth, [... who] lays to waste his [...] ... [through] his ..., [... bro]ad in intelligence, ... [..., the one who inspects the (four) qu]arters (of the world), [...], his eldest [off]spring (Belshazzar), a lowly person, was installed as the ruler of his land, [...] he caused [..., a re]plica, to be set up over them. He bu[ilt] a replica of Esagil [and ...] for (the city) Ur and the rest of the cult-center(s).
 1	[i-nu	inu	SCONJ	_	_	28	mark	_	_
 2	d-AMAR]-⸢UTU⸣	Marduk	PROPN	_	_	13	csubj	_	_
