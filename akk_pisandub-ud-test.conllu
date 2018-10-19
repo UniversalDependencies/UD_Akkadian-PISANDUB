@@ -1150,7 +1150,7 @@
 7	-šu	-šu	PRON	_	_	6	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_4c
-# text = UN-MEŠ ṣal-mat SAG-DU ša ú-ša-ak-ši-du qa-ta-a-šú i-na ki-it-tim ù mi-šá-ru iš-te-né-eʾ-e-ši-na-a-tim
+# text = UN-MEŠ ṣal-mat SAG-DU ša ú-ša-ak-ši-du qa-ta-a -šú i-na ki-it-tim ù mi-šá-ru iš-te-né-eʾ-e-ši-na-a-tim
 # text_en =  (As for) the black-headed people whom he allowed his hand to conquer, he was assiduous towards their welfare in truth and justice.
 1	UN-MEŠ	nišu	NOUN	_	_	12	obj	_	_
 2	ṣal-mat	ṣalmu	ADJ	_	_	3	amod	_	_
@@ -1185,7 +1185,7 @@
 15	ip-pa-li-⸢is⸣	palāsu	VERB	_	_	0	root	_	_
 
 # sent_id = babylon8_Cyrus_II_01_5a
-# text = a-na URU -šu KÁ-DINGIR-MEŠ KI a-la-ak -šu iq-bi
+# text = a-na URU -šu KÁ-DINGIR-MEŠ-KI a-la-ak -šu iq-bi
 # text_en = He (Marduk) commanded that he (Cyrus) should march against his city, Babylon.
 1	a-na	ana	ADP	_	_	2	case	_	_
 2	URU	ālu	NOUN	_	_	5	obl	_	_
@@ -1196,7 +1196,7 @@
 7	iq-bi	qabû	VERB	_	_	0	root	_	_
 
 # sent_id = babylon8_Cyrus_II_01_5b
-# text = ú-ša-aṣ-bi-it -su-ma ḫar-ra-nu TIN-TIR KI ki-ma ib-ri ù tap-pe-e it-tal-la-ka i-da-a -šu
+# text = ú-ša-aṣ-bi-it -su -ma ḫar-ra-nu TIN-TIR-KI ki-ma ib-ri ù tap-pe-e it-tal-la-ka i-da-a -šu
 # text_en = He made him take the road to Babylon and, like a friend and companion, he marched at his side.
 1	ú-ša-aṣ-bi-it	ṣabātu	VERB	_	_	0	root	_	_
 2	-su	-šu	PRON	_	_	1	det	_	_
@@ -1262,7 +1262,7 @@
 14	-šú	-šu	PRON	_	_	13	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_6a
-# text = UN-MEŠ TIN-TIR KI ka-li-šu-nu nap-ḫar KUR-šu-me-ri u URI .KI ru-bé-e ù šak-ka-nak-ka ša-pal-šu ik-mi-sa ú-na-áš-ši-qu še-pu-uš -šu
+# text = UN-MEŠ TIN-TIR-KI ka-li-šu-nu nap-ḫar KUR-šu-me-ri u URI .KI ru-bé-e ù šak-ka-nak-ka ša-pal-šu ik-mi-sa ú-na-áš-ši-qu še-pu-uš -šu
 # text_en =  The people of Babylon, all of them, the entirety of the land of Sumer and Akkad, (as well as) the nobles and governors, bowed down before him (and) kissed his feet.
 1	UN-MEŠ	nišu	NOUN	_	_	14	nsubj	_	_
 2	TIN-TIR-KI	Babili	PROPN	_	_	1	nmod	_	_
@@ -1317,7 +1317,7 @@
 19	-šu	-šu	PRON	_	_	18	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_7
-# text = a-na-ku m ku-ra-áš LUGAL kiš-šat LUGAL GAL LUGAL dan-nu LUGAL TIN-TIR KI LUGAL KUR-šu-me-ri ù ak-ka-di-i LUGAL kib-ra-a-ti er-bé-et-tim DUMU m ka-am-bu-zi-ia LUGAL GAL LUGAL URU an-ša-an DUMU DUMU m ku-ra-áš LUGAL GAL ⸢LUGAL URU⸣ an-ša-an ŠÀ-BAL-BAL m ši-iš-pi-iš LUGAL GAL LUGAL URU an-šá-an NUMUN da-ru-ú ša LUGAL-ú-tu ša d-EN u d-AG ir-a-mu pa-la-a -šu a-na ṭu-ub lìb-bi -šú-nu iḫ-ši-ḫa ⸢LUGAL⸣-ut -su e-nu-ma a-⸢na qé⸣-reb TIN-TIR KI e-ru-bu sa-li-mi-iš i-na ul-ṣi ù ri-ša-a-tim i-na É-GAL ma-al-ki ar-ma-a šu-bat be-lu-tú
+# text = a-na-ku m ku-ra-áš LUGAL kiš-šat LUGAL GAL LUGAL dan-nu LUGAL TIN-TIR-KI LUGAL KUR-šu-me-ri ù ak-ka-di-i LUGAL kib-ra-a-ti er-bé-et-tim DUMU m ka-am-bu-zi-ia LUGAL GAL LUGAL URU an-ša-an DUMU DUMU m ku-ra-áš LUGAL GAL ⸢LUGAL URU⸣ an-ša-an ŠÀ-BAL-BAL m ši-iš-pi-iš LUGAL GAL LUGAL URU an-šá-an NUMUN da-ru-ú ša LUGAL-ú-tu ša d-EN u d-AG ir-a-mu pa-la-a -šu a-na ṭu-ub lìb-bi -šú-nu iḫ-ši-ḫa ⸢LUGAL⸣-ut -su e-nu-ma a-⸢na qé⸣-reb TIN-TIR-KI e-ru-bu sa-li-mi-iš i-na ul-ṣi ù ri-ša-a-tim i-na É-GAL ma-al-ki ar-ma-a šu-bat be-lu-tú
 # text_en =  I, Cyrus (II), king of the world, great king, strong king, king of Babylon, king of the land of Sumer and Akkad, king of the four quarters (of the world), son of Cambyses (I) — great king, king of Anšan — grandson of Cyrus (I) — great king, kin[g of] Anšan — descendant of Teispes — great king, king of Anšan — the eternal seed of kingship, whose reign the gods Bēl (Marduk) and Nabû love and whose k[ingshi]p they desired to their heart’s content. When I peacefully entered i[n]to Babylon, amidst joy and happiness, I took up (my) lordly residence in the palace of the ruler.
 1	a-na-ku	anāku	PRON	_	_	2	det	_	_
 2	m-ku-ra-áš	Kuraš	PROPN	_	_	68	nsubj	_	_
@@ -1391,7 +1391,7 @@
 70	be-lu-tú	bēlūtu	NOUN	_	_	69	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_01_8a
-# text = D-AMAR UTU EN GAL lìb-bi ri-it-pa -šu ša ra-⸢im⸣ TIN-TIR KI ši-⸢ma-a-tiš iš-ku-na⸣ -an-ni-ma u₄-mi-šam a-še-eʾ-a pa-la-⸢aḫ⸣ -šú
+# text = D-AMAR UTU EN GAL lìb-bi ri-it-pa -šu ša ra-⸢im⸣ TIN-TIR-KI ši-⸢ma-a-tiš iš-ku-na⸣ -an-ni-ma u₄-mi-šam a-še-eʾ-a pa-la-⸢aḫ⸣ -šú
 # text_en =  The god Marduk, the great lord, established for me as (my) des[ti]ny the great magnanimity of one who loves Babylon and daily I strive to revere him.
 1	D-AMAR-UTU	Marduk	PROPN	_	_	10	nsubj	_	_
 2	EN	bēlu	NOUN	_	_	1	appos	_	_
@@ -1411,7 +1411,7 @@
 16	-šú	-šu	PRON	_	_	15	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_8b
-# text = um-ma-ni-ia rap-ša-tim i-na qé-reb TIN-TIR KI i-ša-ad-di-ḫa šu-ul-ma-niš
+# text = um-ma-ni-ia rap-ša-tim i-na qé-reb TIN-TIR-KI i-ša-ad-di-ḫa šu-ul-ma-niš
 # text_en =  My widespread troops marched peacefully inside Babylon.
 1	um-ma-ni-ia	ummānu	NOUN	_	_	7	nsubj	_	_
 2	-ia	-ia	PRON	_	_	1	det	_	_
