@@ -260,7 +260,7 @@
 33	-a-a	-ia	PRON	_	_	32	det	_	_
 
 # sent_id = babylon7_nabopolassar_03_03
-# text = d-šà-zu EN mu-du-ú ŠÀ DINGIR-ME ša AN-e ù KI-tim ša ta-ka-la-at ni-ši-im i-bar-ru-ú ka-a-a-ni ia-a-ši-im ṣa-aḫ-ra-am ša i-na ni-ši la ut-tu-ú šá ŠÀ -ía ib-re-e -ma i-na KUR-ab-ba-nu-ú iš-ku-na-an-ni a-na re-še-e-ti
+# text = d-šà-zu EN mu-du-ú ŠÀ DINGIR-ME ša AN-e ù KI-tim ša ta-ka-la-at ni-ši-im i-bar-ru-ú ka-a-a-ni ia-a-ši-im ṣa-aḫ-ra-am ša i-na ni-ši la ut-tu-ú šá ŠÀ -ía ib-re-e -ma i-na KUR ab-ba-nu-ú iš-ku-na-an-ni a-na re-še-e-ti
 1	d-šà-zu	Šazu	PROPN	_	_	13	nsubj	_	_
 2	EN	bēlu	NOUN	_	_	1	appos	_	_
 3	mu-du-ú	mūdû	NOUN	_	_	2	nmod	_	_
@@ -1139,7 +1139,7 @@
 29	-šú⸣	-šu	PRON	_	_	28	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_4b
-# text = KUR-qu-ti-i gi-mir um-man-man-da ú-ka-an-ni-ša a-na še-pi-šu-šú
+# text = KUR-qu-ti-i gi-mir um-man-man-da ú-ka-an-ni-ša a-na še-pi -šu
 # text_en =  He made the land of the Gutians (and) all of the Umman-manda (Medes) bow down at his feet.
 1	KUR-qu-ti-i	Gutium	PROPN	_	_	4	obj	_	_
 2	gi-mir	gimru	NOUN	_	_	1	nmod	_	_
