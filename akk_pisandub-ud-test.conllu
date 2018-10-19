@@ -927,7 +927,7 @@
 9	ú-te-er	târu	VERB	_	_	4	conj	_	_
 
 # sent_id = babylon8_Cyrus_II_01_1a
-# text = [i-nu d-AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi -šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti-šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru-šu-un ta-am-ši-li é-sag-íl i-te-[pu-uš-ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
+# text = [i-nu d-AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi -šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti -šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru -šu-un ta-am-ši-li é-sag-íl i-te-[pu-uš-ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
 # text_en =  [When the god Mard]uk, the king of all of heaven and earth, [... who] lays to waste his [...] ... [through] his ..., [... bro]ad in intelligence, ... [..., the one who inspects the (four) qu]arters (of the world), [...], his eldest [off]spring (Belshazzar), a lowly person, was installed as the ruler of his land, [...] he caused [..., a re]plica, to be set up over them. He bu[ilt] a replica of Esagil [and ...] for (the city) Ur and the rest of the cult-center(s).
 1	[i-nu	inu	SCONJ	_	_	28	mark	_	_
 2	d-AMAR]-⸢UTU⸣	Marduk	PROPN	_	_	13	csubj	_	_
@@ -1009,7 +1009,7 @@
 23	ma-ḫa-zi	māhāzu	NOUN	_	_	22	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_01_2b
-# text = pa-la-ḫa d AMAR-UTU LUGAL DINGIR-MEŠ ⸢ig-mur⸣ kar-šu-uš -šu
+# text = pa-la-ḫa d-AMAR-UTU LUGAL DINGIR-MEŠ ⸢ig-mur⸣ kar-šu-uš -šu
 # text_en =  Reverence for the god Marduk, the king of the gods, c[ame to an en]d in his mind.
 1	pa-la-ḫa	palāhu	NOUN	_	_	5	nsubj	_	_
 2	d-AMAR-UTU	Marduk	PROPN	_	_	1	nmod	_	_
