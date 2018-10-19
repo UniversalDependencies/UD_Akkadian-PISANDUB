@@ -516,7 +516,7 @@
 11	tup-šik-ku	tupšikku	NOUN	_	_	10	obj	_	_
 
 # sent_id = babylon7_nabopolassar_03_10
-# text = ul-tu GÚ ÍD-a-ra-aḫ-tim šid-di e-li-i ša KÁ-GAL-d-INANNA a-di GÚ ÍD-a-ra-aḫ-tim šid-di šá-ap-li-i ša KÁ-GAL-duraš e-pe-ri -šu kam-ru-tu as-sú-uḫ -ma te-me-en -šu la-bi-ru a-ḫi-iṭ ab-re-e -ma i-na áš-ri reš-ti-i li-bit-ta-šú lu-ú ad-di
+# text = ul-tu GÚ ÍD-a-ra-aḫ-tim šid-di e-li-i ša KÁ-GAL-d-INANNA a-di GÚ ÍD-a-ra-aḫ-tim šid-di šá-ap-li-i ša KÁ-GAL-duraš e-pe-ri -šu kam-ru-tu as-sú-uḫ -ma te-me-en -šu la-bi-ru a-ḫi-iṭ ab-re-e -ma i-na áš-ri reš-ti-i li-bit-ta -šú lu-ú ad-di
 1	ul-tu	ištu	ADP	_	_	2	case	_	_
 2	GÚ	kišādu	NOUN	_	_	18	obl	_	_
 3	ÍD-a-ra-aḫ-tim	Arahtu	PROPN	_	_	2	nmod	_	_
@@ -968,7 +968,7 @@
 37	-šu-un	-šunu	PRON	_	_	36	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_1b
-# text = ta-am-ši-li é-sag-íl i-te-[pu-uš -ma xx]-⸢tim⸣ a-na úri KI ù si-it-ta-tì ma-ḫa-za
+# text = ta-am-ši-li é-sag-íl i-te-[pu-uš -ma xx]-⸢tim⸣ a-na úri-KI ù si-it-ta-tì ma-ḫa-za
 # text_en =  He bu[ilt] a replica of Esagil [and ...] for (the city) Ur and the rest of the cult-center(s).
 1	ta-am-ši-li	tamšīlu	NOUN	_	_	3	obj	_	_
 2	é-sag-íl	Esagil	PROPN	_	_	1	nmod	_	_
