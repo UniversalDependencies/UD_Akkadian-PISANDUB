@@ -260,7 +260,7 @@
 33	-a-a	-ia	PRON	_	_	32	det	_	_
 
 # sent_id = babylon7_nabopolassar_03_03
-# text = d-šà-zu EN mu-du-ú ŠÀ DINGIR-ME ša AN-e ù KI-tim ša ta-ka-la-at ni-ši-im i-bar-ru-ú ka-a-a-ni ia-a-ši-im ṣa-aḫ-ra-am ša i-na ni-ši la ut-tu-ú šá ŠÀ -ía ib-re-e -ma i-na KUR ab-ba-nu-ú iš-ku-na-an-ni a-na re-še-e-ti
+# text = d-šà-zu EN mu-du-ú ŠÀ DINGIR-ME ša AN-e ù KI-tim ša ta-ka-la-at ni-ši-im i-bar-ru-ú ka-a-a-ni ia-a-ši-im ṣa-aḫ-ra-am ša i-na ni-ši la ut-tu-ú šá ŠÀ -ía ib-re-e -ma i-na KUR-ab-ba-nu-ú iš-ku-na-an-ni a-na re-še-e-ti
 1	d-šà-zu	Šazu	PROPN	_	_	13	nsubj	_	_
 2	EN	bēlu	NOUN	_	_	1	appos	_	_
 3	mu-du-ú	mūdû	NOUN	_	_	2	nmod	_	_
@@ -1139,7 +1139,7 @@
 29	-šú⸣	-šu	PRON	_	_	28	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_4b
-# text = KUR qu-ti-i gi-mir um-man-man-da ú-ka-an-ni-ša a-na še-pi-šu-šú
+# text = KUR-qu-ti-i gi-mir um-man-man-da ú-ka-an-ni-ša a-na še-pi-šu-šú
 # text_en =  He made the land of the Gutians (and) all of the Umman-manda (Medes) bow down at his feet.
 1	KUR-qu-ti-i	Gutium	PROPN	_	_	4	obj	_	_
 2	gi-mir	gimru	NOUN	_	_	1	nmod	_	_
@@ -1317,7 +1317,7 @@
 19	-šu	-šu	PRON	_	_	18	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_7
-# text = a-na-ku m ku-ra-áš LUGAL kiš-šat LUGAL GAL LUGAL dan-nu LUGAL TIN-TIR KI LUGAL KUR šu-me-ri ù ak-ka-di-i LUGAL kib-ra-a-ti er-bé-et-tim DUMU m ka-am-bu-zi-ia LUGAL GAL LUGAL URU an-ša-an DUMU DUMU m ku-ra-áš LUGAL GAL ⸢LUGAL URU⸣ an-ša-an ŠÀ-BAL-BAL m ši-iš-pi-iš LUGAL GAL LUGAL URU an-šá-an NUMUN da-ru-ú ša LUGAL-ú-tu ša d-EN u d-AG ir-a-mu pa-la-a -šu a-na ṭu-ub lìb-bi -šú-nu iḫ-ši-ḫa ⸢LUGAL⸣-ut -su e-nu-ma a-⸢na qé⸣-reb TIN-TIR KI e-ru-bu sa-li-mi-iš i-na ul-ṣi ù ri-ša-a-tim i-na É-GAL ma-al-ki ar-ma-a šu-bat be-lu-tú
+# text = a-na-ku m ku-ra-áš LUGAL kiš-šat LUGAL GAL LUGAL dan-nu LUGAL TIN-TIR KI LUGAL KUR-šu-me-ri ù ak-ka-di-i LUGAL kib-ra-a-ti er-bé-et-tim DUMU m ka-am-bu-zi-ia LUGAL GAL LUGAL URU an-ša-an DUMU DUMU m ku-ra-áš LUGAL GAL ⸢LUGAL URU⸣ an-ša-an ŠÀ-BAL-BAL m ši-iš-pi-iš LUGAL GAL LUGAL URU an-šá-an NUMUN da-ru-ú ša LUGAL-ú-tu ša d-EN u d-AG ir-a-mu pa-la-a -šu a-na ṭu-ub lìb-bi -šú-nu iḫ-ši-ḫa ⸢LUGAL⸣-ut -su e-nu-ma a-⸢na qé⸣-reb TIN-TIR KI e-ru-bu sa-li-mi-iš i-na ul-ṣi ù ri-ša-a-tim i-na É-GAL ma-al-ki ar-ma-a šu-bat be-lu-tú
 # text_en =  I, Cyrus (II), king of the world, great king, strong king, king of Babylon, king of the land of Sumer and Akkad, king of the four quarters (of the world), son of Cambyses (I) — great king, king of Anšan — grandson of Cyrus (I) — great king, kin[g of] Anšan — descendant of Teispes — great king, king of Anšan — the eternal seed of kingship, whose reign the gods Bēl (Marduk) and Nabû love and whose k[ingshi]p they desired to their heart’s content. When I peacefully entered i[n]to Babylon, amidst joy and happiness, I took up (my) lordly residence in the palace of the ruler.
 1	a-na-ku	anāku	PRON	_	_	2	det	_	_
 2	m-ku-ra-áš	Kuraš	PROPN	_	_	68	nsubj	_	_
@@ -1471,7 +1471,7 @@
 20	-šu-nu	-šunu	PRON	_	_	19	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_9a
-# text = a-na ep-še-e-ti -[ia dam-qa-a-ti] d-AMAR-UTU EN ⸢GAL⸣-ú iḫ-de-e -ma a-na ia-a-ti m-ku-ra-áš LUGAL pa-li-iḫ -šu ù m-ka-am-bu-zi-ia DUMU ṣi-it lìb-bi -[ia ù a]-⸢na⸣ nap-⸢ḫar⸣ um-ma-ni -ia da-am-qí-iš ik-ru-ub -ma i-na šá-lim-tim ma-ḫar -ša ṭa-bi-iš ni-it-⸢ta⸣-[al-la-ak i-na qí-bi-ti -šú] ṣir-ti nap-ḫar LUGAL a-ši-ib BÁRA-MEŠ ša ka-li-iš kib-ra-a-ta iš-tu tam-tim e-li-tim a-di tam-tim šap-li-tim a-ši-ib ⸢na⸣-[gi-i né-su-tim] LUGAL-MEŠ KUR a-mur-ri-i a-ši-ib kuš-ta-ri ka-li -šú-un bi-lat -su-nu ka-bi-it-tim ú-bi-lu -nim -ma qé-er-ba šu-an-na-KI ú-na-áš-ši-qu še-pu -ú-a
+# text = a-na ep-še-e-ti -[ia dam-qa-a-ti] d-AMAR-UTU EN ⸢GAL⸣-ú iḫ-de-e -ma a-na ia-a-ti m-ku-ra-áš LUGAL pa-li-iḫ -šu ù m-ka-am-bu-zi-ia DUMU ṣi-it lìb-bi -[ia ù a]-⸢na⸣ nap-⸢ḫar⸣ um-ma-ni -ia da-am-qí-iš ik-ru-ub -ma i-na šá-lim-tim ma-ḫar -ša ṭa-bi-iš ni-it-⸢ta⸣-[al-la-ak i-na qí-bi-ti -šú] ṣir-ti nap-ḫar LUGAL a-ši-ib BÁRA-MEŠ ša ka-li-iš kib-ra-a-ta iš-tu tam-tim e-li-tim a-di tam-tim šap-li-tim a-ši-ib ⸢na⸣-[gi-i né-su-tim] LUGAL-MEŠ KUR-a-mur-ri-i a-ši-ib kuš-ta-ri ka-li -šú-un bi-lat -su-nu ka-bi-it-tim ú-bi-lu -nim -ma qé-er-ba šu-an-na-KI ú-na-áš-ši-qu še-pu -ú-a
 # text_en =  The god Marduk, the gre[a]t lord, was pleased with [my good] deeds and he kindly pronounced a blessing over me – Cyrus (II), the king who reveres him — and Cambyses (II) — the son, [my] offspring — [and] the entir[ety of] my army so that we, [at his] exalted [command], could constantly walk about happily before him in good health. All of the kings who sit on (royal) daises, from every quarter (of the world), from the Upper Sea to the Lower Sea, those who live in [remote] re[gions], (and) the kings of the land of Amurru who live in tents, everyone of them, brought their substantial tribute inside Šuanna (Babylon) (and) kissed my feet.
 1	a-na	ana	ADP	_	_	2	case	_	_
 2	ep-še-e-ti	epištu	NOUN	_	_	8	obl	_	_
@@ -1600,7 +1600,7 @@
 44	-šú-un	-šunu	PRON	_	_	43	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_11a
-# text = ù DINGIR-MEŠ KUR šu-me-ri ù URI-KI ša m-d-AG-NÍ-TUKU a-na ug-ga-tim EN DINGIR-MEŠ ú-še-ri-bi a-na qé-reb šu-an-na-KI i-na qí-bi-ti d-AMAR-UTU EN GAL i-na ša-li-im-tim i-na maš-ta-ki -šu-nu ú-še-ši-ib šu-ba-at ṭu-ub lìb-bi
+# text = ù DINGIR-MEŠ KUR-šu-me-ri ù URI-KI ša m-d-AG-NÍ-TUKU a-na ug-ga-tim EN DINGIR-MEŠ ú-še-ri-bi a-na qé-reb šu-an-na-KI i-na qí-bi-ti d-AMAR-UTU EN GAL i-na ša-li-im-tim i-na maš-ta-ki -šu-nu ú-še-ši-ib šu-ba-at ṭu-ub lìb-bi
 # text_en =  Moreover, (as for) the deities of the land of Sumer and Akkad who Nabonidus, incurring the wrath of the lord of the gods (Marduk), had brought into Šuanna (Babylon), at the command of the god Marduk, the great lord, I allowed (them) to live in peace in their abodes, (in) the dwelling(s) of (their) heart’s content.
 1	ù	u	CCONJ	_	_	2	cc	_	_
 2	DINGIR-MEŠ	ilu	NOUN	_	_	26	iobj	_	_
@@ -1873,7 +1873,7 @@
 4	[xxx]	_	X	_	_	3	dep	_	_
 
 # sent_id = babylon8_Cyrus_II_02_01
-# text = m-ku-ra-áš LUGAL ŠÁR LUGAL KUR aš-ša-an DUMU m-kam-bu-zi-ia LUGAL KUR-aš-ša-an
+# text = m-ku-ra-áš LUGAL ŠÁR LUGAL KUR-aš-ša-an DUMU m-kam-bu-zi-ia LUGAL KUR-aš-ša-an
 # text_eng = Cyrus II, king of the world, king of the land Anšan, the son of Cambyses I
 1	m-ku-ra-áš	Kuraš	PROPN	_	_	0	root	_	_
 2	LUGAL	šarru	NOUN	_	_	1	appos	_	_
@@ -1886,7 +1886,7 @@
 9	KUR-aš-ša-an	Anšan	PROPN	_	_	8	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_02_02
-# text = DINGIR-DINGIR GAL-GAL kal KUR-KUR a-na qá-ti -ia SI-A -ma KUR šu-ub-ti né-eḫ-ti ú-še-šib
+# text = DINGIR-DINGIR GAL-GAL kal KUR-KUR a-na qá-ti -ia SI-A -ma KUR-šu-ub-ti né-eḫ-ti ú-še-šib
 # text_eng = The great gods placed in my hands all of the lands (and) I allowed the land to live undisturbed.
 1	DINGIR-DINGIR	ilu	NOUN	_	_	8	nsubj	_	_
 2	GAL-GAL	rabû	ADJ	_	_	1	amod	_	_
@@ -1947,7 +1947,7 @@
 24	a-na-ku	anāku	PRON	_	_	1	det	_	_
 
 # sent_id = babylon10_2
-# text = I-nu-ma a-na e-pé-eš₁₅ é-sag-íl ù é-zi-da lìb-bi ub-lam-ma SIG₄-ḪI-A é-sag-íl ù é-zi-da ina KUR ḫa-at-tim ina ŠU-MIN-ía el-le-ti i-na Ì-GIŠ ru-uš-ti al-bi-in-ma a-na na-de-e uš-šu ša é-sag-íl ù é-zi-da ub-bi-il
+# text = I-nu-ma a-na e-pé-eš₁₅ é-sag-íl ù é-zi-da lìb-bi ub-lam-ma SIG₄-ḪI-A é-sag-íl ù é-zi-da ina KUR-ḫa-at-tim ina ŠU-MIN-ía el-le-ti i-na Ì-GIŠ ru-uš-ti al-bi-in-ma a-na na-de-e uš-šu ša é-sag-íl ù é-zi-da ub-bi-il
 # text_en = When I decided to (re)build Esagil and Ezida, I molded the bricks of Esagil and Ezida in the land of Hatti (Syria-Palestine) with my pure hands, using the finest oil, and for the laying of the foundations of Esagil and Ezida I brought them.
 1	I-nu-ma	inūma	ADV	_	_	2	advmod	_	_
 2	a-na	ana	ADP	_	_	3	case	_	_
