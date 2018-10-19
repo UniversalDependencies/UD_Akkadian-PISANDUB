@@ -1078,7 +1078,7 @@
 14	šu-an-na-KI	Šuanna	PROPN	_	_	13	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_01_3c
-# text = d-AMAR-UTU ⸢ti⸣-[iz-qa-ru d-EN-LÍL DINGIR]-⸢MEŠ⸣ us-sa-aḫ-ra a-na nap-ḫar da-ád-mi ša in-na-du-ú šu-bat -su-un ù UN-MEŠ KUR šu-me-ri ù URI KI ša i-mu-ú ša-lam-ta-áš ú-sa-⸢aḫ⸣-ḫi-ir ka-⸢bat⸣-[ta-áš] ir-ta-ši ta-a-a-ra
+# text = d-AMAR-UTU ⸢ti⸣-[iz-qa-ru d-EN-LÍL DINGIR]-⸢MEŠ⸣ us-sa-aḫ-ra a-na nap-ḫar da-ád-mi ša in-na-du-ú šu-bat -su-un ù UN-MEŠ-KUR šu-me-ri ù URI KI ša i-mu-ú ša-lam-ta-áš ú-sa-⸢aḫ⸣-ḫi-ir ka-⸢bat⸣-[ta-áš] ir-ta-ši ta-a-a-ra
 # text_en = The god Marduk, the ex[alted one, the Enlil of the god]s, relented; [his] (hostile) attit[ude] changed towards all of the inhabited settlements whose dwellings were in ruins and the people of the land of Sumer and Akkad who had become like corpses; he became forgiving.
 1	d-AMAR-UTU	Marduk	PROPN	_	_	5	nsubj	_	_
 2	⸢ti⸣-[iz-qa-ru	tizqāru	ADJ	_	_	1	amod	_	_
