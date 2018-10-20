@@ -1886,7 +1886,7 @@
 9	KUR-aš-ša-an	Anšan	PROPN	_	_	8	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_02_02
-# text = DINGIR-DINGIR GAL-GAL kal KUR-KUR a-na qá-ti -ia SI-A -ma KUR-šu-ub-ti né-eḫ-ti ú-še-šib
+# text = DINGIR-DINGIR GAL-GAL kal KUR-KUR a-na qá-ti -ia SI-A -ma KUR šu-ub-ti né-eḫ-ti ú-še-šib
 # text_eng = The great gods placed in my hands all of the lands (and) I allowed the land to live undisturbed.
 1	DINGIR-DINGIR	ilu	NOUN	_	_	8	nsubj	_	_
 2	GAL-GAL	rabû	ADJ	_	_	1	amod	_	_
@@ -1919,7 +1919,7 @@
 12	a-na-ku	anāku	PRON	_	_	1	det	_	_
 
 # sent_id = babylon10_1
-# text = M-an-ti-ʾu-ku-us LUGAL GAL-ú LUGAL dan-nu LUGAL ŠÁR LUGAL E KI LUGAL KUR-KUR za-ni-in é-sag-íl ù é-zi-da IBILA SAG-KAL ša m-si-lu-uk-ku LUGAL LÚ-ma-ak-ka-du-na-a-a LUGAL E-KI a-na-ku
+# text = M-an-ti-ʾu-ku-us LUGAL GAL-ú LUGAL dan-nu LUGAL ŠÁR LUGAL E-KI LUGAL KUR-KUR za-ni-in é-sag-íl ù é-zi-da IBILA SAG-KAL ša m-si-lu-uk-ku LUGAL LÚ-ma-ak-ka-du-na-a-a LUGAL E-KI a-na-ku
 # text_en = Antiochus, great king, mighty king, king of the world, king of Babylon, king of the lands, provider for Esagil and Ezida, foremost heir of king Seleucus, the Macedonian, king of Babylon, am I.
 1	M-an-ti-ʾu-ku-us	Antiʾukus	PROPN	_	_	0	root	_	_
 2	LUGAL	šarru	NOUN	_	_	1	appos	_	_
