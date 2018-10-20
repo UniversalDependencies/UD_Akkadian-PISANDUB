@@ -1391,7 +1391,7 @@
 70	be-lu-tú	bēlūtu	NOUN	_	_	69	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_01_8a
-# text = D-AMAR-UTU EN GAL lìb-bi ri-it-pa-šu ša ra-⸢im⸣ TIN-TIR-KI ši-⸢ma-a-tiš iš-ku-na⸣ -an-ni -ma u₄-mi-šam a-še-eʾ-a pa-la-⸢aḫ⸣ -šú
+# text = D-AMAR-UTU EN GAL lìb-bi ri-it-pa-šu ša ra-⸢im⸣ TIN-TIR-KI ši-⸢ma-a-tiš iš-ku-na⸣ -an-ni- -ma u₄-mi-šam a-še-eʾ-a pa-la-⸢aḫ⸣ -šú
 # text_en =  The god Marduk, the great lord, established for me as (my) des[ti]ny the great magnanimity of one who loves Babylon and daily I strive to revere him.
 1	D-AMAR-UTU	Marduk	PROPN	_	_	10	nsubj	_	_
 2	EN	bēlu	NOUN	_	_	1	appos	_	_
@@ -1411,9 +1411,9 @@
 16	-šú	-šu	PRON	_	_	15	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_8b
-# text = um-ma-ni-ia rap-ša-tim i-na qé-reb TIN-TIR-KI i-ša-ad-di-ḫa šu-ul-ma-niš
+# text = um-ma-ni -ia rap-ša-tim i-na qé-reb TIN-TIR-KI i-ša-ad-di-ḫa šu-ul-ma-niš
 # text_en =  My widespread troops marched peacefully inside Babylon.
-1	um-ma-ni-ia	ummānu	NOUN	_	_	7	nsubj	_	_
+1	um-ma-ni	ummānu	NOUN	_	_	7	nsubj	_	_
 2	-ia	-ia	PRON	_	_	1	det	_	_
 3	rap-ša-tim	rapšu	ADJ	_	_	1	amod	_	_
 4	i-na	ina	ADP	_	_	5	case	_	_
@@ -1471,7 +1471,7 @@
 20	-šu-nu	-šunu	PRON	_	_	19	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_9a
-# text = a-na ep-še-e-ti -[ia dam-qa-a-ti] d-AMAR-UTU EN ⸢GAL⸣-ú iḫ-de-e -ma a-na ia-a-ti m-ku-ra-áš LUGAL pa-li-iḫ -šu ù m-ka-am-bu-zi-ia DUMU ṣi-it lìb-bi -[ia ù a]-⸢na⸣ nap-⸢ḫar⸣ um-ma-ni -ia da-am-qí-iš ik-ru-ub -ma i-na šá-lim-tim ma-ḫar -ša ṭa-bi-iš ni-it-⸢ta⸣-[al-la-ak i-na qí-bi-ti -šú] ṣir-ti nap-ḫar LUGAL a-ši-ib BÁRA-MEŠ ša ka-li-iš kib-ra-a-ta iš-tu tam-tim e-li-tim a-di tam-tim šap-li-tim a-ši-ib ⸢na⸣-[gi-i né-su-tim] LUGAL-MEŠ KUR-a-mur-ri-i a-ši-ib kuš-ta-ri ka-li -šú-un bi-lat -su-nu ka-bi-it-tim ú-bi-lu -nim -ma qé-er-ba šu-an-na-KI ú-na-áš-ši-qu še-pu -ú-a
+# text = a-na ep-še-e-ti -[ia dam-qa-a-ti] d-AMAR-UTU EN ⸢GAL⸣-ú iḫ-de-e -ma a-na ia-a-ti m-ku-ra-áš LUGAL pa-li-iḫ -šu ù m-ka-am-bu-zi-ia DUMU ṣi-it lìb-bi -[ia ù a]-⸢na⸣ nap-⸢ḫar⸣ um-ma-ni -ia da-am-qí-iš ik-ru-ub -ma i-na šá-lim-tim ma-ḫar -ša ṭa-bi-iš ni-it-⸢ta⸣-[al-la-ak i-na qí-bi-ti -šú]
 # text_en =  The god Marduk, the gre[a]t lord, was pleased with [my good] deeds and he kindly pronounced a blessing over me – Cyrus (II), the king who reveres him — and Cambyses (II) — the son, [my] offspring — [and] the entir[ety of] my army so that we, [at his] exalted [command], could constantly walk about happily before him in good health. All of the kings who sit on (royal) daises, from every quarter (of the world), from the Upper Sea to the Lower Sea, those who live in [remote] re[gions], (and) the kings of the land of Amurru who live in tents, everyone of them, brought their substantial tribute inside Šuanna (Babylon) (and) kissed my feet.
 1	a-na	ana	ADP	_	_	2	case	_	_
 2	ep-še-e-ti	epištu	NOUN	_	_	8	obl	_	_
