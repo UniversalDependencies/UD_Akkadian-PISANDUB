@@ -1983,7 +1983,7 @@
 32	ub-bi-il	wabālu	VERB	_	_	23	conj	_	_
 
 # sent_id = babylon10_3
-# text = Ina ITI ŠE UD 20 KAM MU 43 KAM uš-šu ša é-zi-da É ki-i-ni É d-AG šá qé-reb bar-sìp-KI ad-de-e uš-ši-šu
+# text = Ina ITI ŠE UD 20 KAM MU 43 KAM uš-šu ša é-zi-da É ki-i-ni É d-AG šá qé-reb bar-sìp-KI ad-de-e uš-ši -šu
 # text_en = In the month of Addaru, on the twentieth day, in year 43 (27 March 268 BC), I laid the foundations of Ezida, the true house, the temple of Nabû which is in Borsippa.
 1	Ina	ina	ADP	_	_	2	case	_	_
 2	ITI	warḫu	NOUN	_	_	20	obl	_	_
@@ -2035,7 +2035,7 @@
 22	-ma	-ma	PRON	_	_	21	iobj	_	_
 
 # sent_id = babylon10_5
-# text = I-na qí-bi-ti -ka ṣi-ir-ti ša la in-nen-nu-ú qí-bit -su šu-um-qu-ut ma-a-ti a-a-bi -ía ka-šá-du er-ni-it-ti -ía UGU na-ki-ri ú-šu-uz-zu i-na li-i-ti LUGAL-ú-tu mi-šá-ri pa-le-e bu-a-ri MU-AN-NA-MEŠ ṭu-ub lìb-bi še-bé-e lit-tu-tu lu ši-ri-ik-ti LUGAL-ú-ti šá man-ti-ʾu-ku-us ù si-lu-uk-ku LUGAL DUMU -šú a-na da-ra-a-ti
+# text = I-na qí-bi-ti -ka ṣi-ir-ti ša la in-nen-nu-ú qí-bit -su šu-um-qu-ut ma-a-ti a-a-bi -ía ka-šá-du er-ni-it-ti -ía UGU na-ki-ri ú-šu-uz-zu i-na li-i-ti LUGAL-ú-tu mi-šá-ri pa-le-e bu-a-ri MU-AN-NA-MEŠ ṭu-ub lìb-bi še-bé-e lit-tu-tu lu ši-ri-ik-ti LUGAL-ú-ti šá m-an-ti-ʾu-ku-us ù si-lu-uk-ku LUGAL DUMU -šú a-na da-ra-a-ti
 # text_en = At your supreme command, whose command is unalterable, may the downfall of the land of my foe, the achievement of my successes, triumphant victory over my enemies, a just rule, a prosperous reign, years of happiness and the full enjoyment of great old age, be a gift for the kingship of Antiochus and king Seleucus, his son, forever.
 1	I-na	ina	ADP	_	_	2	case	_	_
 2	qí-bi-ti	qibītu	NOUN	_	_	32	advcl	_	_
