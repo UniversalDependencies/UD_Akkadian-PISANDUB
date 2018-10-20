@@ -2142,7 +2142,7 @@
 57	KI-tim	erṣetu	NOUN	_	_	55	conj	_	_
 
 # sent_id = babylon10_7
-# text = I-na pi-i-ka el-li liš-tak-ka-nu du-un-qí-ía
+# text = I-na pi-i -ka el-li liš-tak-ka-nu du-un-qí -ía
 #text_en = In your pure mouth may my good fortune be constantly established.
 1	I-na	ina	ADP	_	_	2	case	_	_
 2	pi-i	pû	NOUN	_	_	5	obl	_	_
@@ -2153,7 +2153,7 @@
 7	-ía	-ia	PRON	_	_	6	det	_	_
 
 # sent_id = babylon10_8
-# text = KUR-KUR-MEŠ TA ṣi-it d-UTU-ši a-di e-re-eb d-UTU-ši lik-šu-du ŠU-MIN-a-a man-da-at-ti-ši-nu lu-us-ni-iq-ma a-na šuk-lu-lu é-sag-íl ù é-zi-da lu-bi-il
+# text = KUR-KUR-MEŠ TA ṣi-it d-UTU-ši a-di e-re-eb d-UTU-ši lik-šu-du ŠU-MIN -a-a man-da-at-ti -ši-nu lu-us-ni-iq -ma a-na šuk-lu-lu é-sag-íl ù é-zi-da lu-bi-il
 # text_en = May I conquer the lands from the rising to the setting of the sun; may my hands inventory their tribute and may I bring it to perfect Esagil and Ezida.
 1	KUR-KUR-MEŠ	mātu	NOUN	_	_	8	obj	_	_
 2	TA	ištu	ADP	_	_	3	case	_	_
