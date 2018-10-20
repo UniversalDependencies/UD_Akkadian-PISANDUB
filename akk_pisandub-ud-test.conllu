@@ -1391,7 +1391,7 @@
 70	be-lu-tú	bēlūtu	NOUN	_	_	69	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_01_8a
-# text = D-AMAR-UTU EN GAL lìb-bi ri-it-pa-šu ša ra-⸢im⸣ TIN-TIR-KI ši-⸢ma-a-tiš iš-ku-na⸣ -an-ni-ma u₄-mi-šam a-še-eʾ-a pa-la-⸢aḫ⸣ -šú
+# text = D-AMAR-UTU EN GAL lìb-bi ri-it-pa-šu ša ra-⸢im⸣ TIN-TIR-KI ši-⸢ma-a-tiš iš-ku-na⸣ -an-ni -ma u₄-mi-šam a-še-eʾ-a pa-la-⸢aḫ⸣ -šú
 # text_en =  The god Marduk, the great lord, established for me as (my) des[ti]ny the great magnanimity of one who loves Babylon and daily I strive to revere him.
 1	D-AMAR-UTU	Marduk	PROPN	_	_	10	nsubj	_	_
 2	EN	bēlu	NOUN	_	_	1	appos	_	_
@@ -1450,7 +1450,7 @@
 # text = DUMU-MEŠ TIN-TIR-[KI xx] ⸢ša⸣ ki-ma la lìb-[bi] ⸢DINGIR⸣ -ma ab-šá-a-ni la si-ma-ti -šú-nu šu-ziz-⸢zu⸣ an-ḫu-ut -su-un ú-pa-áš-ši-ḫa ú-ša-ap-ṭi-ir sa-ar-ma -šu-nu
 # text_en = (As for) the citizens of Babylon, [..., wh]o would have endured a yoke not befitting them if not for the wi[ll of go]d, I allowed (them) to find rest for their exhaustion (and) I relieved (them) off their ...
 1	DUMU-MEŠ	māru	NOUN	_	_	17	iobj	_	_
-2	TIN-TIR-KI	Babili	PROPN	_	_	1	nmod	_	_
+2	TIN-TIR-[KI	Babili	PROPN	_	_	1	nmod	_	_
 3	xx]	_	X	_	_	1	dep	_	_
 4	⸢ša⸣	ša	PRON	_	_	7	mark	_	_
 5	ki-ma	kīma	ADP	_	_	7	case	_	_
