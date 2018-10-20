@@ -2177,7 +2177,7 @@
 20	lu-bi-il	wabālu	VERB	_	_	13	conj	_	_
 
 # sent_id = babylon10_9
-# text = d-AG IBILA SAG-KAL a-na é-zi-da É ki-i-ni i-na e-re-bi-ka SIG₅-tim m-an-ti-ʾu-ku-us LUGAL KUR-KUR m-si-lu-uk-ku LUGAL DUMU-šú f-as-ta-ar-ta-ni-ik-ku ḫi-rat -su šar-ra-at da-mi-iq-ti -šú-nu li-iš-šá-kin i-na pi-i -ka
+# text = d-AG IBILA SAG-KAL a-na é-zi-da É ki-i-ni i-na e-re-bi -ka SIG₅-tim m-an-ti-ʾu-ku-us LUGAL KUR-KUR m-si-lu-uk-ku LUGAL DUMU -šú f-as-ta-ar-ta-ni-ik-ku ḫi-rat -su šar-ra-at da-mi-iq-ti -šú-nu li-iš-šá-kin i-na pi-i -ka
 # text_en = Nabû, supreme heir, upon your entry to Ezida, the true house, may the good fortune of Antiochus, king of the lands, king Seleucus, his son, and Stratonike, his consort, the queen, be established in your mouth.
 1	d-AG	Nabû	PROPN	_	_	9	nsubj	_	_
 2	IBILA	aplu	NOUN	_	_	1	appos	_	_
