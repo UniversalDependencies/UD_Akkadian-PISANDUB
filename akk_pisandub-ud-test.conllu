@@ -1212,7 +1212,7 @@
 12	-šu	-šu	PRON	_	_	11	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_5c
-# text = um-ma-ni -šu rap-ša-a-tim ša ki-ma me-e ÍD la ú-ta-ad-du-ú ni-ba -šu-un GIŠ-TUKUL-MEŠ -šu-nu ṣa-an-du -ma i-ša-ad-di-ḫa i-da-a -šu
+# text = um-ma-ni -šu rap-ša-a-tim ša ki-ma me-e ÍD la ú-ta-ad-du-ú ni-ba -šu-un GIŠ-TUKUL-MEŠ -šu-nu ṣa-an-du-ma i-ša-ad-di-ḫa i-da-a -šu
 # text_en = His widespread troops, whose number, like the water of a river, cannot be ascertained, marched fully armed at his side.
 1	um-ma-ni	ummānu	NOUN	_	_	15	nsubj	_	_
 2	-šu	-šu	PRON	_	_	1	det	_	_
@@ -1233,7 +1233,7 @@
 17	-šu	-šu	PRON	_	_	16	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_5d
-# text = ba-lu qab-li ù ta-ḫa-zi ú-še-ri-ba-áš qé-reb šu-an-na KI
+# text = ba-lu qab-li ù ta-ḫa-zi ú-še-ri-ba-áš qé-reb šu-an-na-KI
 # text_en = Without a fight or battle, he allowed him to enter Šuanna (Babylon).
 1	ba-lu	balu	ADP	_	_	2	case	_	_
 2	qab-li	qablu	NOUN	_	_	5	obl	_	_
@@ -1244,7 +1244,7 @@
 7	šu-an-na-KI	Šuanna	PROPN	_	_	6	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_01_5e
-# text = URU -šu KÁ-DINGIR-MEŠ KI i-ṭi-ir i-na šap-ša-qí m-d-AG-NÍ-TUKU LUGAL la pa-li-ḫi -šu ú-ma-al-la-a qa-tu-uš -šú
+# text = URU -šu KÁ-DINGIR-MEŠ-KI i-ṭi-ir i-na šap-ša-qí m-d-AG-NÍ-TUKU LUGAL la pa-li-ḫi -šu ú-ma-al-la-a qa-tu-uš -šú
 # text_en = He saved his city, Babylon, from hardship. He delivered Nabonidus, the king who did not revere him, into his hands.
 1	URU	ālu	NOUN	_	_	4	obj	_	_
 2	-šu	-šu	PRON	_	_	1	det	_	_
