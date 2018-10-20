@@ -1807,7 +1807,7 @@
 15	[ú-ra-at-ti]	retû	VERB	_	_	0	root	_	_
 
 # sent_id = babylon8_Cyrus_II_01_15
-# text = xx] ⸢ši⸣-ṭi-ir šu-mu šá d-AN-ŠÁR-DÙ-IBILA LUGAL a-lik maḫ-ri -[ia šá qer-ba -šu ap-pa]-⸢al⸣ -sa [xx a-na áš]-⸢ri -šú⸣
+# text = xx] ⸢ši⸣-ṭi-ir šu-mu šá d-AN-ŠÁR-DÙ-IBILA LUGAL a-lik maḫ-ri -[ia šá qer-ba -šu ap-pa]-⸢al⸣-sa [xx a-na áš]-⸢ri -šú⸣
 # text_en =   [... I saw a ... wr]itten in the name of Ashurbanipal, a king who came before [me, that (had been deposited) inside it. ... to] its [plac]e.
 1	xx]	_	X	_	_	2	dep	_	_
 2	⸢ši⸣-ṭi-ir	šiṭru	NOUN	_	_	13	obj	_	_
@@ -1828,7 +1828,7 @@
 17	-šú⸣	-šu	PRON	_	_	16	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_16
-# text = D-AMAR-UTU EN GAL ba-⸢laṭ⸣ [u₄-um re-e-qú-ú-tim] [še-bé-e li-it-tu-ú-ti ku-un GIŠ GU-ZA ù la-bar pa-le]-⸢e⸣ a-na ši-ri-ik-⸢tim⸣ [šu-úr-kam ù a-na-ku -ma xx] ⸢lìb⸣-bi -ka a-na da-rí-a-tim
+# text = D-AMAR-UTU EN GAL ba-⸢laṭ⸣ [u₄-um re-e-qú-ú-tim] [še-bé-e li-it-tu-ú-ti ku-un GIŠ-GU-ZA ù la-bar pa-le]-⸢e⸣ a-na ši-ri-ik-⸢tim⸣ [šu-úr-kam ù a-na-ku -ma xx] ⸢lìb⸣-bi -ka a-na da-rí-a-tim
 # text_en =  O Marduk, the great lord, [grant me] a lif[e (lasting until) distant days, the attainment of very old age, the securing of (my) throne, and the prolongation of (my) reig]n as a gif[t. Furthermore, may I ... in] your heart for ever.
 1	D-AMAR-UTU	Marduk	PROPN	_	_	16	vocative	_	_
 2	EN	bēlu	NOUN	_	_	1	appos	_	_
