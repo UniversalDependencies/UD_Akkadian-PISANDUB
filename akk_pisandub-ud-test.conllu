@@ -1716,7 +1716,7 @@
 15	ú-ṭa-aḫ-ḫi-id	ṭahādu	VERB	_	_	0	root	_	_
 
 # sent_id = babylon8_Cyrus_II_01_13a
-# text = BÀD im-gur-d-EN-LÍL BÀD GAL-a ša TIN-TIR-⸢KI⸣ [ma-aṣ]-⸢ṣar-ta⸣ -šú du-un-nu-nù áš-te-eʾ-e -ma [xx] ka-a-ri a-gur-ru šá GÚ ḫa-ri-ṣi ša LUGAL maḫ-ri i-⸢pu⸣ -[šu-ma la ú]-⸢šak-li-lu⸣ ši-pi-ir -šu
+# text = BÀD im-gur-d-EN-LÍL BÀD GAL-a ša TIN-TIR-⸢KI⸣ [ma-aṣ]-⸢ṣar-ta⸣ -šú du-un-nu-nù áš-te-eʾ-e -ma [xx] ka-a-ri a-gur-ru šá GÚ ḫa-ri-ṣi ša LUGAL maḫ-ri i-⸢pu⸣-[šu -ma la ú]-⸢šak-li-lu⸣ ši-pi-ir -šu
 # text_en =  (As for) Imgur-Enlil, the great wall of Babylon, I sought to strengthen its [defen]ses and [...] the quay (made) of baked brick on the bank of the moat that a previous king had bu[ilt, but not com]pleted, [I ...] its construction.
 1	BÀD	dūru	NOUN	_	_	10	nsubj	_	_
 2	im-gur-d-EN-LÍL	Imgur-Enlil	PROPN	_	_	1	flat	_	_
@@ -1788,7 +1788,7 @@
 11	-ši]-in	šina	PRON	_	_	10	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_14
-# text = [xx GIŠ IG-MEŠ GIŠ EREN MAḪ]-MEŠ ta-aḫ-lu-up-tim ZABAR as-ku-up-pu ù nu-ku-⸢še⸣-[e pi-ti-iq e-ri-i e-ma KÁ-MEŠ] -⸢ši⸣-na
+# text = [xx GIŠ-IG-MEŠ GIŠ-EREN MAḪ]-MEŠ ta-aḫ-lu-up-tim ZABAR as-ku-up-pu ù nu-ku-⸢še⸣-[e pi-ti-iq e-ri-i e-ma KÁ-MEŠ] -⸢ši⸣-na [ú-ra-at-ti]
 # text_en =  [... tall doors of cedar] covered with bronze. [Wherever th]eir [gates were, I installed] thresholds and fittin[gs of cast copper].
 1	[xx	_	X	_	_	2	dep	_	_
 2	GIŠ-IG-MEŠ	daltu	NOUN	_	_	15	iobj	_	_
@@ -1807,7 +1807,7 @@
 15	[ú-ra-at-ti]	retû	VERB	_	_	0	root	_	_
 
 # sent_id = babylon8_Cyrus_II_01_15
-# text = [ú-ra-at-ti xx] ⸢ši⸣-ṭi-ir šu-mu šá d-AN-ŠÁR-DÙ-IBILA LUGAL a-lik maḫ-ri -[ia šá qer-ba -šu ap-pa]-⸢al⸣ -sa [xx a-na áš]-⸢ri -šú⸣
+# text = xx] ⸢ši⸣-ṭi-ir šu-mu šá d-AN-ŠÁR-DÙ-IBILA LUGAL a-lik maḫ-ri -[ia šá qer-ba -šu ap-pa]-⸢al⸣ -sa [xx a-na áš]-⸢ri -šú⸣
 # text_en =   [... I saw a ... wr]itten in the name of Ashurbanipal, a king who came before [me, that (had been deposited) inside it. ... to] its [plac]e.
 1	xx]	_	X	_	_	2	dep	_	_
 2	⸢ši⸣-ṭi-ir	šiṭru	NOUN	_	_	13	obj	_	_
