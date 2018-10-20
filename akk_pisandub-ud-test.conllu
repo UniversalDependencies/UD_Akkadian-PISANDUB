@@ -1391,7 +1391,7 @@
 70	be-lu-tú	bēlūtu	NOUN	_	_	69	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_01_8a
-# text = D-AMAR-UTU EN GAL lìb-bi ri-it-pa -šu ša ra-⸢im⸣ TIN-TIR-KI ši-⸢ma-a-tiš iš-ku-na⸣ -an-ni-ma u₄-mi-šam a-še-eʾ-a pa-la-⸢aḫ⸣ -šú
+# text = D-AMAR-UTU EN GAL lìb-bi ri-it-pa-šu ša ra-⸢im⸣ TIN-TIR-KI ši-⸢ma-a-tiš iš-ku-na⸣ -an-ni-ma u₄-mi-šam a-še-eʾ-a pa-la-⸢aḫ⸣ -šú
 # text_en =  The god Marduk, the great lord, established for me as (my) des[ti]ny the great magnanimity of one who loves Babylon and daily I strive to revere him.
 1	D-AMAR-UTU	Marduk	PROPN	_	_	10	nsubj	_	_
 2	EN	bēlu	NOUN	_	_	1	appos	_	_
