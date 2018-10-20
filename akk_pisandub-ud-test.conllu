@@ -1633,7 +1633,7 @@
 29	lìb-bi	libbu	NOUN	_	_	28	nmod	_	_
 
 # sent_id = babylon8_Cyrus_II_01_11b
-# text = kul-la-ta DINGIR-MEŠ ša ú-še-ri-bi a-na qé-er-bi ma-ḫa-zi -šu-un u₄-mi-ša-am ma-ḫar d-EN ù d-AG ša a-ra-ku UD-MEŠ -ia li-ta-mu-ú lit-taz-ka-ru a-ma-a-ta du-un-qí -ia ù a-na d-AMAR-UTU EN -ia li-iq-bu-ú ša m-ku-ra-áš LUGAL pa-li-ḫi-ka u m-ka-am-bu-zi-ia DUMU -šú kux[xxx]⸢ib⸣ šu-nu lu-ú za-ni-ni BÁRA-i-ni a-na UD-MEŠ ⸢SÙ⸣-[MEŠ xx]
+# text = kul-la-ta DINGIR-MEŠ ša ú-še-ri-bi a-na qé-er-bi ma-ḫa-zi -šu-un u₄-mi-ša-am ma-ḫar d-EN ù d-AG ša a-ra-ku UD-MEŠ -ia li-ta-mu-ú lit-taz-ka-ru a-ma-a-ta du-un-qí -ia ù a-na d-AMAR-UTU EN -ia li-iq-bu-ú ša m-ku-ra-áš LUGAL pa-li-ḫi-ka u m-ka-am-bu-zi-ia DUMU -šú kux[xxx]⸢ib⸣ -šu-nu lu-ú za-ni-ni BÁRA-i-ni a-na UD-MEŠ ⸢SÙ⸣-[MEŠ xx]
 # text_en =  May all of the deities whom I made enter into their cult-centers speak daily about my life being long (and) may they mention favorable words about me in the presence of the gods Bēl (Marduk) and Nabû. Furthermore, may they say this to the god Marduk, my lord: “[(As for) the ...] of Cyrus (II), the king who reveres you, and Cambyses (II), his son, [...] may they be the ones who provision our shrines until distant days.”
 1	kul-la-ta	kullatu	NOUN	_	_	18	nsubj	_	_
 2	DINGIR-MEŠ	ilu	NOUN	_	_	1	nmod	_	_
