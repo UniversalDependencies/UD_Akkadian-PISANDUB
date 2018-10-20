@@ -1262,7 +1262,7 @@
 14	-šú	-šu	PRON	_	_	13	det	_	_
 
 # sent_id = babylon8_Cyrus_II_01_6a
-# text = UN-MEŠ TIN-TIR-KI ka-li-šu-nu nap-ḫar KUR-šu-me-ri u URI .KI ru-bé-e ù šak-ka-nak-ka ša-pal-šu ik-mi-sa ú-na-áš-ši-qu še-pu-uš -šu
+# text = UN-MEŠ TIN-TIR-KI ka-li -šu-nu nap-ḫar KUR-šu-me-ri u URI-KI ru-bé-e ù šak-ka-nak-ka ša-pal -šu ik-mi-sa ú-na-áš-ši-qu še-pu-uš -šu
 # text_en =  The people of Babylon, all of them, the entirety of the land of Sumer and Akkad, (as well as) the nobles and governors, bowed down before him (and) kissed his feet.
 1	UN-MEŠ	nišu	NOUN	_	_	14	nsubj	_	_
 2	TIN-TIR-KI	Babili	PROPN	_	_	1	nmod	_	_
