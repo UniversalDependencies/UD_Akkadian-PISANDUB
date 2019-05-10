@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>101</sentences><tokens>1852</tokens><words>1852</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>101</sentences><tokens>1852</tokens><words>1852</words><fused>0</fused></test>
   </size>
   <lemmas unique="510" /><!-- ša, u, -šu, ana, šarru, ina, -ia, Babili, -ma, Marduk, -šunu, bēlu, rabû, libbu, mātu -->
   <forms unique="900" /><!-- ù, LUGAL, a-na, ša, i-na, -ma, -šu, d-AMAR-UTU, šá, -šú, EN, la, -ia, DUMU, d-AG -->

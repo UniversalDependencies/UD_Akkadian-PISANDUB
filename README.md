@@ -2,18 +2,20 @@
 
 A small set of sentences from Babylonian royal inscriptions.
 
+
 # Introduction
 
 ‘PISANDUB’ means ‘basket of tablets’ (Sumerian logogram for Akkadian pisanduppu
 / pisan ṭuppātim), which reflects the scale of this project.
 
-# Acknowledgments
 
-...
+# Changelog
 
-## References
+* 2019-05-15 v2.4
+  * No changes.
+* 2018-11-15 v2.3
+  * Initial release in Universal Dependencies.
 
-* (citation)
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
