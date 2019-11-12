@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Akkadian-PISANDUB:
-commit 8542901c586f9a2709521f3872d1f0c89ef566fa
-Merge: c679202 9eca660
+commit a03154353d543d795cbbc43a691536f46c32b932
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 20:51:38 2019 +0200
 Size: counted 1852 of 1852 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.23253227244798.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,8 +23,20 @@ Udapi: found 484 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 1852 words.
 Genres: found 1 out of 17 known.
 validate.py --lang akk --max-err=10 UD_Akkadian-PISANDUB/akk_pisandub-ud-test.conllu
-*** PASSED ***
-Validity: 1
+[Line 43 Sent babylon7_amel-marduk_4_01 Node 6]: [L3 Syntax rel-upos-case] 'case' should not be 'DET'
+[Line 99 Sent babylon7_nabopolassar_01_02 Node 4]: [L3 Syntax rel-upos-case] 'case' should not be 'DET'
+[Line 133 Sent babylon7_nabopolassar_01_04 Node 2]: [L3 Syntax rel-upos-case] 'case' should not be 'DET'
+[Line 168 Sent babylon7_nabopolassar_02_02 Node 4]: [L3 Syntax rel-upos-case] 'case' should not be 'DET'
+[Line 175 Sent babylon7_nabopolassar_02_02 Node 11]: [L3 Syntax rel-upos-case] 'case' should not be 'DET'
+[Line 180 Sent babylon7_nabopolassar_02_02 Node 16]: [L3 Syntax rel-upos-case] 'case' should not be 'DET'
+[Line 244 Sent babylon7_nabopolassar_03_02 Node 17]: [L3 Syntax rel-upos-mark] 'mark' should not be 'DET'
+[Line 269 Sent babylon7_nabopolassar_03_03 Node 6]: [L3 Syntax rel-upos-case] 'case' should not be 'DET'
+[Line 285 Sent babylon7_nabopolassar_03_03 Node 22]: [L3 Syntax rel-upos-case] 'case' should not be 'DET'
+...suppressing further errors regarding Syntax
+Syntax errors: 45
+*** FAILED *** with 45 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
@@ -33,6 +45,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.764705882352941) = 0.0588235294117647
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.72972972972973) = 0.0561330561330561
-(TOTAL score=0.223638821341103) * (availability=1) * (validity=1) = 0.223638821341103
-STARS = 1
-UD_Akkadian-PISANDUB	0.223638821341103	1
+(TOTAL score=0.223638821341103) * (availability=1) * (validity=0.01) = 0.00223638821341103
+STARS = 0
+UD_Akkadian-PISANDUB	0.00223638821341103	0
