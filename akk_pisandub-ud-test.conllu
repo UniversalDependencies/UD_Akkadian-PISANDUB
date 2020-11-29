@@ -937,7 +937,7 @@
 6	u	u	CCONJ	_	_	7	cc	_	_
 7	KI-tim	erṣetu	NOUN	_	_	5	conj	_	_
 8	x	_	X	_	_	7	dep	_	_
-9	[xx	_	X	_	_	10	dep	_	_
+9	[xx	_	X	_	_	13	dep	_	_
 10	šá	ša	SCONJ	_	_	13	mark	_	_
 11	ina]	ina	ADP	_	_	12	case	_	_
 12	x-si-šú	_	X	_	_	13	dep	_	_
@@ -1175,7 +1175,7 @@
 5	UN-MEŠ	nišu	NOUN	_	_	4	nmod	_	_
 6	-šú	-šu	PRON	_	_	5	det	_	_
 7	ep-še-e-ti	epištu	NOUN	_	_	15	obj	_	_
-8	-ša	-ša	NOUN	_	_	7	det	_	_
+8	-ša	-ša	PRON	_	_	7	det	_	_
 9	dam-qa-a-ta	damqu	ADJ	_	_	7	amod	_	_
 10	ù	u	CCONJ	_	_	11	cc	_	_
 11	lìb-ba	libbu	NOUN	_	_	7	conj	_	_
@@ -1359,7 +1359,7 @@
 38	da-ru-ú	dārû	ADJ	_	_	37	amod	_	_
 39	ša	ša	ADP	_	_	40	case	_	_
 40	LUGAL-ú-tu	šarrūtu	NOUN	_	_	37	obj	_	_
-41	ša	ša	PRON	_	_	45	mark	_	_
+41	ša	ša	SCONJ	_	_	45	mark	_	_
 42	d-EN	Bel	PROPN	_	_	45	csubj	_	_
 43	u	u	CCONJ	_	_	44	cc	_	_
 44	d-AG	Nabu	PROPN	_	_	42	conj	_	_
@@ -1452,7 +1452,7 @@
 1	DUMU-MEŠ	māru	NOUN	_	_	17	iobj	_	_
 2	TIN-TIR-[KI	Babili	PROPN	_	_	1	nmod	_	_
 3	xx]	_	X	_	_	1	dep	_	_
-4	⸢ša⸣	ša	PRON	_	_	7	mark	_	_
+4	⸢ša⸣	ša	ADP	_	_	7	case	_	_
 5	ki-ma	kīma	ADP	_	_	7	case	_	_
 6	la	lā	PART	_	_	7	advmod	_	_
 7	lìb-[bi]	libbu	NOUN	_	_	3	dep	_	_
@@ -1691,7 +1691,7 @@
 5	LUGAL-ú-tu	šarrūtu	NOUN	_	_	4	obj	_	_
 6	KUR-KUR	mātu	NOUN	_	_	11	obj	_	_
 7	ka-li	kalû	NOUN	_	_	6	nmod	_	_
-8	-ši-na	-šina	PROPN	_	_	7	det	_	_
+8	-ši-na	-šina	PRON	_	_	7	det	_	_
 9	šu-ub-ti	šubtu	NOUN	_	_	11	obl	_	_
 10	né-eḫ-tim	nēhu	ADJ	_	_	9	amod	_	_
 11	ú-še-ši-ib	wašābu	VERB	_	_	4	parataxis	_	_
@@ -1725,7 +1725,7 @@
 5	ša	ša	ADP	_	_	6	case	_	_
 6	TIN-TIR-⸢KI⸣	Babili	PROPN	_	_	1	nmod	_	_
 7	[ma-aṣ]-⸢ṣar-ta⸣	maṣṣartu	NOUN	_	_	10	iobj	_	_
-8	-šú	-šu	PROPN	_	_	7	det	_	_
+8	-šú	-šu	PRON	_	_	7	det	_	_
 9	du-un-nu-nù	danānu	NOUN	_	_	10	obj	_	_
 10	áš-te-eʾ-e	šeʾû	VERB	_	_	0	root	_	_
 11	-ma	-ma	CCONJ	_	_	21	cc	_	_
@@ -2017,7 +2017,7 @@
 4	IGI-GÁL-LA	igigallu	NOUN	_	_	1	appos	_	_
 5	DINGIR-MEŠ	ilu	NOUN	_	_	4	nmod	_	_
 6	muš-tar-ḫu	muštarhu	NOUN	_	_	1	appos	_	_
-7	ša	ša	PRON	REL	_	9	mark	_	_
+7	ša	ša	SCONJ	REL	_	9	mark	_	_
 8	a-na	ana	ADP	_	_	9	case	_	_
 9	ta-na-da-a-ti	tanattu	NOUN	_	_	6	acl	_	_
 10	šit-ku-nu	šitkunu	ADJ	_	_	9	amod	_	_
@@ -2083,15 +2083,15 @@
 # sent_id = babylon10_6
 # text = DUMU ru-bé-e d-AG IBILA é-sag-íl bu-kúr d-asar-ri reš-tu-ú i-lit-ti d-e₄-ru₆-ú-a šar-rat a-na é-zi-da É ki-i-ni É d-a-nu-ti -ka šu-bat ṭu-ub lìb-bi -ka i-na ḫi-da-a-tú ù ri-šá-a-tú i-na e-re-bi -ka i-na qí-bi-ti -ka kit-ti ša la uš-tam-sa-ku li-ri-ku u₄-mi -ía li-mi-da MU-AN-NA-ti -ía li-kun GIŠ-GU-ZA -ú-a li-il-bi-ir pa-lu -ú-a i-na GIŠ-DA -ka ṣi-i-ri mu-kin pal-lu-uk-ku AN-e u KI-tim
 # text_en = Son of the prince, Nabû, heir of Esagil, firstborn son of Marduk, offspring of Erua the queen, when with rejoicing and jubilation you enter Ezida, the true house, the house of your supreme divinity, at your true command, which cannot be annulled, may my days be long, my years many; may my throne be secure, my reign lengthy, on your exalted tablet which preserves the boundary of heaven and earth.
-1	DUMU	māru	NOUN	_	_	3	appos	_	_
+1	DUMU	māru	NOUN	_	_	37	vocative	_	_
 2	ru-bé-e	rubû	NOUN	_	_	1	nmod	_	_
-3	d-AG	Nabû	PROPN	_	_	37	vocative	_	_
-4	IBILA	aplu	NOUN	_	_	3	appos	_	_
+3	d-AG	Nabû	PROPN	_	_	1	appos	_	_
+4	IBILA	aplu	NOUN	_	_	1	appos	_	_
 5	é-sag-íl	Esagil	PROPN	_	_	4	nmod	_	_
-6	bu-kúr	bukru	NOUN	_	_	3	appos	_	_
+6	bu-kúr	bukru	NOUN	_	_	1	appos	_	_
 7	d-asar-ri	Asari	PROPN	_	_	6	nmod	_	_
 8	reš-tu-ú	rēštû	ADJ	_	_	9	amod	_	_
-9	i-lit-ti	ilittu	NOUN	_	_	3	appos	_	_
+9	i-lit-ti	ilittu	NOUN	_	_	1	appos	_	_
 10	d-e₄-ru₆-ú-a	Eruʾa	PROPN	_	_	9	nmod	_	_
 11	šar-rat	šarratu	NOUN	_	_	10	appos	_	_
 12	a-na	ana	ADP	_	_	13	case	_	_
