@@ -16,16 +16,16 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="13">
     <tag name="ADJ">101</tag><!-- rabû, kīnu, rēštû, ṣīru, dannu, elû, labīru, rapšu, šaplû, ašarēdu -->
-    <tag name="ADP">140</tag><!-- ana, ina, ištu, adi, itti, kīma, eli, kī, -anni-, _ -->
+    <tag name="ADP">176</tag><!-- ana, ina, ša, ištu, adi, itti, kīma, eli, kī, -anni- -->
     <tag name="ADV">32</tag><!-- ūmišam, eššiš, kīdānu, hadîš, ṭābiš, damqiš, ezziš, inūma, inūmīšu, inūšu -->
     <tag name="CCONJ">101</tag><!-- u, -ma, lū -->
-    <tag name="DET">47</tag><!-- ša, _ -->
-    <tag name="NOUN">696</tag><!-- šarru, bēlu, libbu, mātu, māru, ilu, dūru, nišu, ūmu, qerbu -->
+    <tag name="DET">10</tag><!-- ša, _ -->
+    <tag name="NOUN">695</tag><!-- šarru, bēlu, libbu, mātu, māru, ilu, dūru, nišu, ūmu, qerbu -->
     <tag name="NUM">12</tag><!-- _, 1, 1/2, 1/3, 2, 3, 6, erbe -->
     <tag name="PART">34</tag><!-- lā, lū, -ma, ai, ul -->
-    <tag name="PRON">186</tag><!-- -šu, -ia, -šunu, -ka, anāku, -šina, ša, -ša, šu, šuāti -->
-    <tag name="PROPN">248</tag><!-- Babili, Marduk, Nabu, Esagil, Ezida, Nabu-apla-uṣur, Kuraš, Amel-Marduk, Anšan, Šuanna -->
-    <tag name="SCONJ">32</tag><!-- ša, inu, inūma, manāma, -ša, šumma -->
+    <tag name="PRON">186</tag><!-- -šu, -ia, -šunu, -ka, anāku, -šina, -ša, šu, šuāti, -ma -->
+    <tag name="PROPN">246</tag><!-- Babili, Marduk, Nabu, Esagil, Ezida, Nabu-apla-uṣur, Kuraš, Amel-Marduk, Anšan, Šuanna -->
+    <tag name="SCONJ">36</tag><!-- ša, inu, inūma, manāma, -ša, šumma -->
     <tag name="VERB">193</tag><!-- epēšu, šakānu, erēbu, qabû, sahāru, šeʾû, kânu, alāku, barû, nadû -->
     <tag name="X">30</tag><!-- _ -->
   </tags>
@@ -39,7 +39,7 @@
     <dep name="advmod">63</dep>
     <dep name="amod">99</dep>
     <dep name="appos">139</dep>
-    <dep name="case">173</dep>
+    <dep name="case">174</dep>
     <dep name="cc">102</dep>
     <dep name="ccomp">15</dep>
     <dep name="compound">7</dep>
@@ -51,7 +51,7 @@
     <dep name="flat">9</dep>
     <dep name="iobj">12</dep>
     <dep name="list">28</dep>
-    <dep name="mark">37</dep>
+    <dep name="mark">36</dep>
     <dep name="nmod">328</dep>
     <dep name="nsubj">33</dep>
     <dep name="nummod">8</dep>

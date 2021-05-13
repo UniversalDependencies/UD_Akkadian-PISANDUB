@@ -11,6 +11,8 @@ A small set of sentences from Babylonian royal inscriptions.
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Fixed 'ša' from DET to ADP.
 * 2019-05-15 v2.4
   * No changes.
 * 2018-11-15 v2.3
