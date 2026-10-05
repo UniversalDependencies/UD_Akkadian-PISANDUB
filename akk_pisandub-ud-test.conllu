@@ -756,7 +756,7 @@
 11	mu-šar-re-e	mušarû	NOUN	_	_	16	obj	_	_
 12	LUGAL	šarru	NOUN	_	_	11	nmod	_	_
 13	a-lik	āliku	NOUN	_	_	12	nmod	_	_
-14	ma-aḫ-ri	mahru	NOUN	_	_	13	obl	_	_
+14	ma-aḫ-ri	mahru	NOUN	_	_	13	nmod	_	_
 15	-ía	-ia	PRON	_	_	14	det	_	_
 16	a-mu-ru	amāru	VERB	_	_	6	ccomp	_	_
 17	-ma	-ma	CCONJ	_	_	21	cc	_	_
@@ -1625,7 +1625,7 @@
 21	i-na	ina	ADP	_	_	22	case	_	_
 22	ša-li-im-tim	šalimtu	NOUN	_	_	26	obl	_	_
 23	i-na	ina	ADP	_	_	24	case	_	_
-24	maš-ta-ki	maštaku	NOUN	_	_	28	obl	_	_
+24	maš-ta-ki	maštaku	NOUN	_	_	28	nmod	_	_
 25	-šu-nu	-šunu	PRON	_	_	24	det	_	_
 26	ú-še-ši-ib	wašābu	VERB	_	_	0	root	_	_
 27	šu-ba-at	šubtu	NOUN	_	_	26	obj	_	_
@@ -1963,7 +1963,7 @@
 12	ù	u	CCONJ	_	_	13	cc	_	_
 13	é-zi-da	Ezida	PROPN	_	_	11	conj	_	_
 14	ina	ina	ADP	_	_	15	case	_	_
-15	KUR-ḫa-at-tim	Hatti	PROPN	_	_	10	obl	_	_
+15	KUR-ḫa-at-tim	Hatti	PROPN	_	_	10	nmod	_	_
 16	ina	ina	ADP	_	_	17	case	_	_
 17	ŠU-MIN	qātu	NOUN	_	_	23	obl	_	_
 18	-ía	-ia	PRON	_	_	17	det	_	_

@@ -52,11 +52,11 @@
     <dep name="iobj">12</dep>
     <dep name="list">28</dep>
     <dep name="mark">36</dep>
-    <dep name="nmod">328</dep>
+    <dep name="nmod">331</dep>
     <dep name="nsubj">33</dep>
     <dep name="nummod">8</dep>
     <dep name="obj">128</dep>
-    <dep name="obl">125</dep>
+    <dep name="obl">122</dep>
     <dep name="parataxis">35</dep>
     <dep name="root">101</dep>
     <dep name="vocative">9</dep>
