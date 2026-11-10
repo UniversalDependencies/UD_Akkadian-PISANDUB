@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Akkadian-PISANDUB:
-commit a278551679a11ee0562b7b20948a8c20dca29ee5
+commit c0cb2ab65758d3a73af03877d93036a052d6bf30
+Merge: 5bcec9f 74a5ce0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed May 6 12:04:31 2026 +0200
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'akk_pisandub'
 Language code (from CoNLL-U file name) = 'akk'
@@ -26,15 +26,12 @@ Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang akk --max-err=10 UD_Akkadian-PISANDUB/akk_pisandub-ud-test.conllu
 [Line 754 Sent babylon7_nabopolassar_03_19]: [L3 WARNING fixed-without-extpos] Fixed expression 'ki-i šá' does not have the 'ExtPos' feature
-[Line 759 Sent babylon7_nabopolassar_03_19]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'a-lik') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 1105 Sent babylon8_Cyrus_II_01_3c]: [L3 SYNTAX too-many-objects] Multiple direct objects [22, 24] ('ka-⸢bat⸣-[ta-áš]', 'ta-a-a-ra') under the predicate 'ir-ta-ši'.
-[Line 1628 Sent babylon8_Cyrus_II_01_11a]: [L3 SYNTAX obl-should-be-nmod] The parent (node [28] 'ṭu-ub') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1966 Sent babylon10_2]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'SIG₄-ḪI-A') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 2007 Sent babylon10_3]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 21] ('uš-šu', 'uš-ši') under the predicate 'ad-de-e'.
 [Line 2206 Sent babylon10_9]: [L3 SYNTAX too-many-objects] Multiple direct objects [11, 23] ('SIG₅-tim', 'da-mi-iq-ti') under the predicate 'li-iš-šá-kin'.
 Warnings: 1
-SYNTAX errors: 6
-*** FAILED *** with 6 errors
+SYNTAX errors: 3
+*** FAILED *** with 3 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.01) = 0.00111111111111111
